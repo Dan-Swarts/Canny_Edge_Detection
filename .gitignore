@@ -1,6 +1,6 @@
 *.png
 data
-images
+images/*
 *_app
 *.o
 image_processor
