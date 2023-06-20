@@ -1,0 +1,8 @@
+*.png
+data
+images
+*_app
+*.o
+image_processor
+/docs/latex/*
+/docs/html/*
