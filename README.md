@@ -27,7 +27,3 @@ To utilize this code for applying Canny edge detection to your own images, follo
 - Run the script: ./image_processor input.jpg canny-edge-detect output.jpg
 - You are free to use any image of your choice
 - Please note that this implementation assumes you have a basic understanding of computer vision concepts and have the necessary environment set up to run the code. Ensure that the required dependencies are installed and configured properly.
-
-For more information and detailed instructions, please refer to the project repository's documentation.
-
-Should you have any questions or encounter any issues, feel free to reach out for assistance.
